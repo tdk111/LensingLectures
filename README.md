@@ -1,5 +1,4 @@
-# LensingLectures
-=================
+# Weak Gravitational Lensing Lectures
 
 These lectures cover approximately 4 hours of discussion and presentation. 
 They present the basics of weak gravitational lensing measurement. 
