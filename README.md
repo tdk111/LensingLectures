@@ -1,10 +1,10 @@
 # LensingLectures
 =================
 
-These lectures cover, that cover approximately 4 hours of discussion and presentation, cover the 
-basics of weak gravitational lensing measurement. 
+These lectures cover approximately 4 hours of discussion and presentation. 
+They present the basics of weak gravitational lensing measurement. 
 
-They cover 
+They include: 
 
 - Weak lensing derivation from GR
 - Presentation of the lens equation 
